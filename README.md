@@ -1,2 +1,1 @@
 # Qwest
-- find ring
